@@ -63,6 +63,5 @@ Our Website allows the users to book appointments directly through the website l
 - Basically, the project is completely based on Front End. So, modifications can be done through Back End.
 
 ## Built With:
-- <img src="https://github.com/Kartick-Basak/Project/assets/142428805/8177488d-bd07-4e32-9ae2-731c01218f90" alt="logo" width="50" height="50"> HTML
-- <img src="https://github.com/Kartick-Basak/Project/assets/142428805/fe0ff962-e779-4ccb-8e97-393bc47b65a1)
-" alt="logo" width="50" height="50"> CSS
+- <img src="https://github.com/Kartick-Basak/Project/assets/142428805/8177488d-bd07-4e32-9ae2-731c01218f90" alt="logo" width="25" height="25"> HTML
+- <img src="https://github.com/Kartick-Basak/Project/assets/142428805/fe0ff962-e779-4ccb-8e97-393bc47b65a1" alt="logo" width="25" height="25"> CSS
