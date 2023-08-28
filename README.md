@@ -40,3 +40,28 @@ Our Website allows the users to book appointments directly through the website l
 - **Information Availability:** Finding accurate and comprehensive information about doctors, including their specialties, experience, patient reviews, and qualifications, can be challenging. Our website centralize this information, helping users make informed decisions.
 
 - **Patient-Doctor Matching:** It's important for patients to find doctors who are a good fit for their medical needs and personal preferences. Our website facilitate this matching process by allowing users to search for doctors based on specific criteria.
+
+
+
+## Overview
+- In the landing page, the user will able to see the features of our website and get started with our website “Medico Fortify”.
+- After scrolling down, the user will able to view the doctors from Fortis and Apollo, Kolkata.
+- Each department consists of top 4 specialists.
+- One can view there biodata and venue and book appointment through the site linked up with Fortis and Apollo.
+
+## Challenges we ran into:
+- As we are beginners in the field of Web Development, we were finding it difficult to tackle with some elements which were completely new to us.
+- Since, it was our first project, we couldn’t used the CSS to our best. More styling could have been done.
+- As the beginners, it was difficult for us to push/pull and do other such staffs in Github.
+- We’ve also faced a problem regarding the branch merging in Github.We had to go through a lot of documentations.
+
+
+## What’s Next For Our Project:
+- Restructuring the website with the advancing uses of CSS & Javascript.
+- Optimization and minor bug fixers.
+- As this project is based on static website. So with the Javascript, we could make it a dynamic one.
+- Basically, the project is completely based on Front End. So, modifications can be done through Back End.
+
+## Built With:
+- HTML
+- CSS
