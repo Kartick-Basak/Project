@@ -1,9 +1,8 @@
 # Medico Fortify - Your Guide to Finding the Best Doctors in Kolkata
 
-![MEDICO FORTIFY-3](https://github.com/Kartick-Basak/Project/assets/142428805/ac2147d7-11e2-4ff8-8657-379636922cbc)
-<br />
+  ![MEDICO FORTIFY-3](https://github.com/Kartick-Basak/Project/assets/142428805/ac2147d7-11e2-4ff8-8657-379636922cbc)
 
-![MEDICO FORTIFY-3](logo.png)
+<br />
 
 # About the project:
 [Screenshot(UI based)- gif/short vd]
