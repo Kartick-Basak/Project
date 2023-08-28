@@ -98,7 +98,6 @@ img {
     display: flex;
     align-items: center;
     gap: 20px;
-
 }
 
 .image-container img {
@@ -140,7 +139,6 @@ img {
    font-size: 25px;
    font-weight: bolder;
    font-family: 'Prompt';
-
 }
 
 .t1{
@@ -150,20 +148,6 @@ img {
 .t2{
     font-size: 20px;
 }
-
-
-.booking-link {
-    background-color: #007bff;
-    color: white;
-    padding: 12px 24px; 
-    font-size: 22px; 
-    font-family: 'Roboto Mono';
-    font-weight: bolder;
-    text-decoration: none;
-    border-radius: 8px;
-    align-self: center;
-    margin-top: -10px;
-
 .t3{
     font-size: 20px;
     font-weight:var(#007bff);
@@ -171,7 +155,6 @@ img {
 .t4{
     font-weight: bolder;
     font-size: larger;
-
 }
 
 .t5{
@@ -186,35 +169,6 @@ img {
     font-weight:var(#007bff);
 }
 .t8{
-    font-weight: bolder;
-    font-size: larger;
-}
-
-.ld{
-    text-align: center;
-    text-decoration: none;
-    font-size: 50px;
-    font-weight: bolder;
-}
-
-.c1{
-   font-size: 25px;
-   font-weight: bolder;
-   font-family: 'Prompt';
-}
-
-.t1{
-    font-size: 40px;
-    padding: auto;
-}
-.t2{
-    font-size: 20px;
-}
-.t3{
-    font-size: 20px;
-    font-weight:var(#007bff);
-}
-.t4{
     font-weight: bolder;
     font-size: larger;
 }
